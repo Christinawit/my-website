@@ -1,0 +1,35 @@
+body {
+    background-color:#FDFEFE;
+    color:#17202A;
+    font-size: 15px;
+  }
+
+.warning-table {
+  border: 1px solid #C0C1BF;
+  border-left: 5px solid orange;
+  max-width: 800px;
+}
+
+.toc {
+    border: 1px solid black;
+    background-color:#E5E8E8;
+    width: 200px;
+}
+
+h1 {
+    color: red;
+}
+
+h2, h3 {
+    color: #5D6D7E;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: grey;
+}
